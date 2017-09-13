@@ -1,9 +1,5 @@
 Homework 1 - HTML
 
-<p style="color:red">49 tests passed.
-0 tests failed.
-Great job!</p>
-
 In this assignment, you will modify an existing HTML page that uses inline style attributes so that it instead uses an external CSS file. 
 
 
